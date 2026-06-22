@@ -1,0 +1,114 @@
+---
+title: "**SPUDS**: **S**haring **P**edagogical practices for **U**ndergraduate **D**ata science and **S**tatistics"
+format: html
+favicon: images/spud_mini.png
+include-in-header:
+  text: |
+    <link rel="icon" type="image/png" href="images/spud_mini.png">
+---
+
+![Artist: Melody Martin](images/spuds.png)
+
+::::: panel-tabset
+## About
+
+**SPUDS** was established after discussions between [Anna Fergusson](https://profiles.auckland.ac.nz/a-fergusson) (University of Auckland \| Waipapa Taumata Rau), [Blair Robertson](https://profiles.canterbury.ac.nz/Blair-Robertson) (University of Canterbury \| Te Whare Wānanga o Waitaha), [Jonathan Marshall](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=269430) (Massey University \| Te Kunenga Ki Pūrehuroa), [David Cox](https://people.wgtn.ac.nz/david.cox) (Victoria University of Wellington \| Te Herenga Waka) and [Matt Parry](https://www.otago.ac.nz/maths-and-stats/people/matthew-parry) (University of Otago \| Ōtākou Whakaihu Waka).
+
+The goal of SPUDS is to provide informal opportunities to share pedagogical developments within undergraduate statistics and data science courses across Aotearoa New Zealand. We initially plan to do this by offering sharing sessions on ZOOM every four weeks, on Wednesdays from 2pm to 3pm (see the Session schedule for planned dates).
+
+::: callout
+To sign up to receive notifications and ZOOM links for each session, please complete [this Google form](https://forms.gle/AeWQ7WsGuJ1T3GyX9).
+:::
+
+**SPUDS** is co-organised by Anna Fergusson and Blair Robertson. If you have any questions about **SPUDS**, please contact Anna Fergusson (a.fergusson\@auckland.ac.nz)
+
+## Session schedule
+
+------------------------------------------------------------------------
+
+#### Wednesday 1st July 2pm to 3pm
+
+Chair: Blair Robertson
+
+##### Speaker 1: David Cox
+
+Senior Lecturer, School of Mathematics and Statistics, Victoria University of Wellington \| Te Herenga Waka
+
+*Using individualised datasets in written assignments and uploading individualised solutions*
+
+##### Speaker 2: Anna Fergusson
+
+Senior Lecturer, Department of Statistics, University of Auckland \| Waipapa Taumata Rau
+
+*Designing and implementing multi-version statistics investigations using Canvas quizzes*
+
+------------------------------------------------------------------------
+
+#### Wednesday 29th July 2pm to 3pm
+
+Chair: Anna Fergusson
+
+##### Speaker 1: Blair Robertson
+
+Associate Professor, School of Mathematics and Statistics, University of Canterbury | Te Whare Wānanga o Waitaha
+
+*TBC*
+
+##### Speaker 2: Emma Lerhke
+
+Professional Teaching Fellow, Department of Statistics, University of Auckland \| Waipapa Taumata Rau
+
+*TBC*
+
+------------------------------------------------------------------------
+
+#### Wednesday 26th August 2pm to 3pm
+
+Chair: Blair Robertson
+
+##### Speaker 1: Matt Parry
+
+Associate Professor, Department of Mathematics and Statistics, University of Otago | Ōtākou Whakaihu Waka
+
+
+*TBC*
+
+##### Speaker 2: Anne Patel
+
+Professional Teaching Fellow, Department of Statistics, University of Auckland \| Waipapa Taumata Rau
+
+*TBC*
+
+------------------------------------------------------------------------
+
+#### Wednesday 21st October 2pm to 3pm
+
+------------------------------------------------------------------------
+
+#### Wednesday 17th November 2pm to 3pm
+
+------------------------------------------------------------------------
+
+## Want to share?
+
+### Guidance for presenters
+
+Each presenter will have around 25 minutes to share, which should include time for questions and other discussion.
+
+Try to focus on a **specific aspect** of the course rather than providing a broad overview. For example, discuss one assessment component, one teaching approach, or one significant course change so participants can better understand the rationale, implementation, and student experience.
+
+:::callout
+Folks are unlikely to completely re-write a course to be like yours, so instead try to focus on one pedagogical practice that could be transfered/adapted to another course/university context. 
+:::
+
+As part of what you share, include a course overview slide showing:
+
+-   The breakdown of the final grade (assessment components and weightings).
+-   A high-level overview of the course content and structure.
+
+Feel free to take a more practical or "show-and-tell" approach, no need for traditional slide-based presentations (unless that's what you feel more comfortable doing!)
+
+::: callout
+[Please use this form](https://forms.gle/3beTaCynXitpRMCz5) to express interest in sharing at SPUDS!
+:::
+:::::
