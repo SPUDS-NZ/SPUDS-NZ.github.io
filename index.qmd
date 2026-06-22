@@ -40,7 +40,7 @@ Senior Lecturer, School of Mathematics and Statistics, Victoria University of We
 
 Senior Lecturer, Department of Statistics, University of Auckland \| Waipapa Taumata Rau
 
-*Designing and implementing multi-version statistics investigations using Canvas quizzes*
+*Code blanks for supporting the integration of statistical and computational thinking*
 
 ------------------------------------------------------------------------
 
